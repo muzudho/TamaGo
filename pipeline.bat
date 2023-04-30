@@ -8,7 +8,7 @@ REM ===
 REM
 REM Step 1.
 REM
-REM Please use command prompt. Don't run from Visual Studio Code.
+REM Please use command prompt. Don't run from Visual Studio Code. Often VSCode restarts.
 REM
 REM ```
 REM cd C:\GitHub\TamaGo
