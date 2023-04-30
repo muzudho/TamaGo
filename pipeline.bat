@@ -8,13 +8,15 @@ REM ===
 REM
 REM Step 1.
 REM
+REM Please use command prompt. Don't run from Visual Studio Code.
+REM
 REM ```
 REM cd C:\GitHub\TamaGo
 REM ```
 REM
 REM Step 2.
 REM
-REM Don't run from Visual Studio Code. Please use command prompt
+REM If not anaconda.
 REM
 REM ```
 REM %windir%\system32\cmd.exe "/K" %USERPROFILE%\Anaconda3\Scripts\activate.bat %USERPROFILE%\Anaconda3
