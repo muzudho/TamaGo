@@ -32,6 +32,12 @@ Step 3.
 (base) C:\GitHub\TamaGo>pipeline.bat
 ```
 
+Or  
+
+```
+(base) C:\GitHub\TamaGo>python pipeline.py
+```
+
 Ok.  
 
 * Reference
